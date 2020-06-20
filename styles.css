@@ -37,7 +37,7 @@ body {
 .text {
     font-family: "Monument Extended";
     font-weight: lighter;
-    font-size: 54px;
+    font-size: 3em;
 }
 
 .text-1,
@@ -47,7 +47,7 @@ body {
 .text-9,
 .text-11 {
     color: rgba(0, 0, 0, 0);
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 3px white;
 }
 
 @keyframes blink {
